@@ -20967,9 +20967,9 @@
     "restore": {
       "projectUniqueName": "random_name_3",
       "projectName": "random_name_3",
-      "projectPath": "C:\\Users\\mircea.feder\\Documents\\UiPath\\mircea-track-package-source-2\\F1\\F2\\random_name_3\\.local",
+      "projectPath": "C:\\Users\\mircea.feder\\Documents\\UiPath\\mircea-track-package-source-2\\F1\\F2\\F3\\random_name_3\\.local",
       "packagesPath": "C:\\Users\\mircea.feder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mircea.feder\\Documents\\UiPath\\mircea-track-package-source-2\\F1\\F2\\random_name_3\\.local"
+      "outputPath": "C:\\Users\\mircea.feder\\Documents\\UiPath\\mircea-track-package-source-2\\F1\\F2\\F3\\random_name_3\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
